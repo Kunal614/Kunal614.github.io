@@ -305,9 +305,10 @@ ion-icon {
   0% { content: "HTML5"; }
   14% { content: "CSS"; }
   28% { content: "JavaScript"; }
-  43% { content: "Python"; }
-  58% { content: "Java"; }
-  72% { content: "C"; }
-  86% { content: "SQL"; }
-  100% { content: "Shell"; }
+  30% { content: "C"; }
+  43% { content: "Java"; }
+  60% { content: "Shell"; }
+  70% { content: "SQL"; }
+  80% { content: "Python3"; }
+  100% { content: "C++"; }
 }
